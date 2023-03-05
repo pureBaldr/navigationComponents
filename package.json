@@ -1,0 +1,22 @@
+{
+  "name": "@dadmor/pure-baldr-navigation-components",
+  "version": "0.0.1",
+  "description": "Taiwind UiKit navigation components",
+  "license": "MIT",
+  "repository": "pureBaldr/navigationComponents",
+  "keywords": [
+    "light",
+    "less 1 kb",
+    "npm",
+    "package",
+    "react",
+    "uikit",
+    "tailwind",
+    "typescript",
+    "navigation components"
+  ],
+  "devDependencies": {
+    "@dadmor/pure-baldr-core": "latest",
+    "@types/react": "^18.0.28"
+  }
+}
